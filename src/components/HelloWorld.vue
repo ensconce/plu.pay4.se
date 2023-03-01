@@ -3,7 +3,8 @@
     <h1>Plutus spend overview</h1>
     <p>
       Select your .csv statements file from Plutus (<a href="https://chrome.google.com/webstore/detail/plutusdex-enhancer/necjdfandaodcoeagkacmlapednbihgl" target="_blank">Get the plugin!</a>) to get a nice overview and possibilities of future spendings.<br>
-      Don't have a Plutus account or just wondering wtf this is? <a href="https://dex.plutus.it/auth/referee/signup?refId=rx8znb" target="_blank" rel="noopener">Get one here (Ref link)</a>.
+      Don't have a Plutus account or just wondering wtf this is? <a href="https://dex.plutus.it/auth/referee/signup?refId=rx8znb" target="_blank" rel="noopener">Get one here (Ref link)</a>.<br>
+      <a href="https://github.com/ensconce/plu.pay4.se">Check out the source here.</a>
     </p>
     
     <h4>Select your current tier</h4>
